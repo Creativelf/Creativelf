@@ -1,5 +1,4 @@
-## Hi there 👋
-
+*How to reach me:*
 - email: uvc4632@gmail.com
 
 <!--
