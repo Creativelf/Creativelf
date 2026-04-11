@@ -1,4 +1,4 @@
-*How to reach me:*
+**How to reach me:**
 - email: uvc4632@gmail.com
 
 <!--
