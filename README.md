@@ -1,5 +1,6 @@
 **How to reach me:**
 - email: uvc4632@gmail.com
+- stack: Node.js, Next.js, PostgreSQL, Redis, BullMQ ...
 
 <!--
 **Creativelf/Creativelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
