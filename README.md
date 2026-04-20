@@ -1,4 +1,3 @@
-**How to reach me:**
 - email: uvc4632@gmail.com
 - stack: Node.js, Next.js, PostgreSQL, Redis, BullMQ ...
 
